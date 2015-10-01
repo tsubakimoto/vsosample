@@ -11,7 +11,7 @@ namespace vsosample.test
         public void TestMethod1()
         {
             var person = new vsosample.Person { Name = "Hoge" };
-            Assert.AreEqual("Bar", person.SayName());
+            Assert.AreEqual("Hoge", person.SayName());
         }
     }
 }
