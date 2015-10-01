@@ -1,0 +1,7 @@
+D:\vsosample\vsosample\bin\Debug\vsosample.exe.config
+D:\src\vsosample\vsosample\bin\Debug\vsosample.exe.config
+D:\src\vsosample\vsosample\bin\Debug\vsosample.exe
+D:\src\vsosample\vsosample\bin\Debug\vsosample.pdb
+D:\src\vsosample\vsosample\obj\Debug\vsosample.csprojResolveAssemblyReference.cache
+D:\src\vsosample\vsosample\obj\Debug\vsosample.exe
+D:\src\vsosample\vsosample\obj\Debug\vsosample.pdb
