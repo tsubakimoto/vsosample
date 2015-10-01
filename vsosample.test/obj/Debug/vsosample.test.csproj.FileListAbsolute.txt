@@ -1,0 +1,9 @@
+D:\src\vsosample\vsosample.test\bin\Debug\vsosample.test.dll
+D:\src\vsosample\vsosample.test\bin\Debug\vsosample.test.pdb
+D:\src\vsosample\vsosample.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\src\vsosample\vsosample.test\bin\Debug\vsosample.exe
+D:\src\vsosample\vsosample.test\bin\Debug\vsosample.pdb
+D:\src\vsosample\vsosample.test\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\src\vsosample\vsosample.test\obj\Debug\vsosample.test.csprojResolveAssemblyReference.cache
+D:\src\vsosample\vsosample.test\obj\Debug\vsosample.test.dll
+D:\src\vsosample\vsosample.test\obj\Debug\vsosample.test.pdb

@@ -11,13 +11,18 @@ namespace vsosample
         static void Main(string[] args)
         {
             var person = new Person { Name = "Matsumura" };
-            Console.WriteLine(person.Name);
+            Console.WriteLine(person.SayName());
             Console.ReadLine();
         }
     }
 
-    class Person
+    public class Person
     {
         public string Name { get; set; }
+
+        public string SayName()
+        {
+            return Name;
+        }
     }
 }
