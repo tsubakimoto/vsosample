@@ -10,7 +10,14 @@ namespace vsosample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!!");
+            var person = new Person { Name = "Matsumura" };
+            Console.WriteLine(person.Name);
+            Console.ReadLine();
         }
+    }
+
+    class Person
+    {
+        public string Name { get; set; }
     }
 }
